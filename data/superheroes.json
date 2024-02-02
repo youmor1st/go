@@ -1,0 +1,12 @@
+[
+  {"Name": "Bruce Wayne", "Alias": "Batman", "Age": 35},
+  {"Name": "Clark Kent", "Alias": "Superman", "Age": 30},
+  {"Name": "Diana Prince", "Alias": "Wonder Woman", "Age": 28},
+  {"Name": "Barry Allen", "Alias": "The Flash", "Age": 26},
+  {"Name": "Arthur Curry", "Alias": "Aquaman", "Age": 32},
+  {"Name": "Hal Jordan", "Alias": "Green Lantern", "Age": 29},
+  {"Name": "Oliver Queen", "Alias": "Green Arrow", "Age": 31},
+  {"Name": "Selina Kyle", "Alias": "Catwoman", "Age": 30},
+  {"Name": "Victor Stone", "Alias": "Cyborg", "Age": 28},
+  {"Name": "Kara Zor-El", "Alias": "Supergirl", "Age": 25}
+]
